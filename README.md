@@ -16,9 +16,9 @@ The File Linker is a Python script that allows you to easily import and run Pyth
 
 # Customization
 
-You can customize the script to change the name of the subdirectory by modifying the following line of code:
-`sys.path.insert(0,'./new')`
-To specify a different subdirectory, simply replace './new' with the path to your desired subdirectory.
+You can customize the script to change the name of the subdirectory by modifying the following line of code:                
+`sys.path.insert(0,'./new')`                                                            
+To specify a different subdirectory, simply replace './new' with the path to your desired subdirectory.               
 
 # Note
 
