@@ -8,7 +8,7 @@ The File Linker is a Python script that allows you to easily import and run Pyth
 
 2. Run the script by calling fileLinker() or by running the script in your command line/terminal.
 
-3. The script will print a list of all Python files in the specified subdirectory (by default, the subdirectory is named "new").
+3. The script will print a list of all Python files in the specified subdirectory (by default, the subdirectory is named "new"). Make sure to delete the "hangman.py" file from the new folder before running the script.
 
 4. Enter the number of the file you wish to import and run. The script will attempt to import and run the selected file.
 
